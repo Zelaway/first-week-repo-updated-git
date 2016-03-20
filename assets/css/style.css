@@ -221,7 +221,7 @@ input[type=submit] {
        background: ("../images/concrete_seamless.png");
    }
 
-   /*.wrapper {
+   .wrapper {
        width: 100%;
        padding: 20px 20px 20px 20px;
        background-color: #333;
@@ -237,7 +237,7 @@ input[type=submit] {
     }
     #sidebar {
       margin-top: 40px;
-    }  */
+    }  
    
 }
 @media screen and (max-width: 768px){
